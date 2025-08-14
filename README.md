@@ -9,7 +9,7 @@
 - 💡 Skilled in **Java, Spring Boot, Hibernate, REST APIs, React.js**
 - 🛠️ Experienced in **full-stack application development**, **JWT authentication**, and **payment gateway integration**
 - 📊 Interested in **backend systems, microservices, and database optimization**
-- 🌱 Currently learning **AWS & Docker** for deployment and cloud services
+- 🌱 Currently learning **Docker** for deployment
 
 ---
 
